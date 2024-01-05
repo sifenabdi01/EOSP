@@ -1,2 +1,2 @@
 # EOSP
-Ethiopian Open Source Project
+Ethiopian Open Source Programers
